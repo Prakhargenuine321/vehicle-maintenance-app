@@ -1,4 +1,4 @@
-const VehicleData = require('../models/VehicleData');
+const VehicleData = require('../models/1vehicleInformation');
 
 // Fetch vehicle data
 exports.getData = async (req, res) => {
