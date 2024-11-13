@@ -9,4 +9,4 @@ const vehicleInfoSchema = new mongoose.Schema({
     licensePlate: String
 });
 
-module.exports = mongoose.model('VehicleData', vehicleInfoSchema);
+module.exports = mongoose.model('VehicleInfo', vehicleInfoSchema);
